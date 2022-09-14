@@ -1,2 +1,2 @@
 # ITICprojectBankSystem
-C project
+C project - iti - bank system management
